@@ -1,4 +1,4 @@
-# ![Animated Smiley](https://media.giphy.com/media/3o6Zt8zIb4Oe7s5V9W/giphy.gif) harshitamehra
+# harshitamehra
 
 🙏
 
