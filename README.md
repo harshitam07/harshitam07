@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here you can explore my projects and contributions
 
 ## Contact
 
-Connect with me via:
+Find me/Connect with me on:
 - **LinkedIn**: http://www.linkedin.com/in/harshita-mehra-43492a236
 - **Email**: harshitamehra0001@gmail.com
 - **Google Scholar**: https://scholar.google.com/citations?hl=en&user=Q0BAitsAAAAJ
