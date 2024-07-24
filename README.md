@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you can explore my projects and contributions
 
 ## About Me
 - **Machine Learning Enthusiast**: With extensive experience in natural language processing (NLP), supervised learning, unsupervised learning, and deep learning.
-- **Research Author**: Proud author of numerous research papers that delve into advanced data analysis and ML techniques.
+- **Research Author**: Proud author of research papers that delve into advanced data analysis and ML techniques.
 - You can find my research articles on Google Scholar.
 
 
