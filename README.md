@@ -18,3 +18,6 @@
     <a href="https://orcid.org/0009-0006-4378-4273" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" alt="ORCID" height="30" width="40" /></a>
   </p>
 </div>
+
+
+<h3 align="center" style="font-size: larger;">Thank you for visiting my GitHub profile! 😊</h3>
