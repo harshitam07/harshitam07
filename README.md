@@ -1,6 +1,14 @@
 <h1 align="center">Hello 👋, I am Harshita Mehra</h1>
 <h3 align="center">Welcome to my GitHub profile! Here you can explore my projects and contributions in the field of Artificial Intelligence, Machine Learning and Data Science.</h3>
 
+<div align="center" style="font-size: smaller;">
+  <ul style="list-style-type: disc; text-align: left; display: inline-block;">
+    <li><b>Machine Learning Enthusiast</b>: With extensive experience in natural language processing (NLP), supervised learning, unsupervised learning, and deep learning.</li>
+    <li><b>Research Author</b>: Proud author of research papers that delve into advanced data analysis and ML techniques.</li>
+    <li>You can find my research articles on Google Scholar.</li>
+  </ul>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <p>
