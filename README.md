@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/harshita-mehra-43492a236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:harshitamehra0001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:harshitamehra0001@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?hl=en&user=Q0BAitsAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
 <a href="https://orcid.org/0009-0006-4378-4273" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1200px-ORCID_iD.svg.png" alt="ORCID" height="30" width="40" /></a>
 </p>
